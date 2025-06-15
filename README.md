@@ -22,6 +22,23 @@ We introduce a novel taxonomy for SpeechLMs, categorizing them based on their ar
 ## Existing SpeechLMs
 | Model | Title | Url |
 |-------|-------|-----|
+|  OpenAI Advanced Voice Mode    | OpenAI Advanced Voice Mode | [Link](https://help.openai.com/en/articles/9617425-advanced-voice-mode-faq)  |
+|  Claude Voice Mode     | Claude Voice Mode | [Link](https://support.anthropic.com/en/articles/11101966-using-voice-mode-on-claude-mobile-apps)  |
+|  MindGPT-4o-Audio     | 理想同学MindGPT-4o-Audio实时语音对话大模型发布 | [Link](https://mp.weixin.qq.com/s?__biz=MzkyNzc3ODYzMQ==&mid=2247483808&idx=1&sn=15b2d0fc5c415066e9e85a0e17fa4094&chksm=c313b6c42e4bac7f551e3ce6b314897e6c09b2829d202ae09b088c39b6208d14545221a82785&mpshare=1&scene=1&srcid=06157RruwKQJDuZvxSmt0ALH&sharer_shareinfo=4f156f5dabba628552a2429a555bca65&sharer_shareinfo_first=4f156f5dabba628552a2429a555bca65#rd)  |
+|  VITA-Audio     | VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model | [Link](https://arxiv.org/abs/2505.03739)  |
+|  Voila     | Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play | [Link](https://arxiv.org/abs/2505.02707)  |
+|  Kimi-Audio     | https://arxiv.org/abs/2504.18425 | [Link](https://arxiv.org/abs/2504.18425)  |
+|  Lyra     | Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition | [Link](https://arxiv.org/abs/2412.09501)  |
+|  Flow-Omni     | Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners | [Link](https://arxiv.org/abs/2412.04917)  |
+|  NTPP     | NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction | [Link](https://arxiv.org/abs/2506.00975)  |
+|  Qwen2.5-Omni     | Qwen2.5-Omni Technical Report | [Link](https://arxiv.org/abs/2503.20215)  |
+|  CSM     | Conversational Speech Generation Model | [Link](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)  |
+|  Minmo     | MinMo: A Multimodal Large Language Model for Seamless Voice Interaction | [Link](https://arxiv.org/abs/2501.06282)  |
+|  Slamming     | Slamming: Training a Speech Language Model on One GPU in a Day | [Link](https://arxiv.org/abs/2502.15814)  |
+|  VITA-1.5     | VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction | [Link](https://arxiv.org/abs/2501.01957)  |
+|  Baichuan-Audio     | Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction | [Link](https://arxiv.org/abs/2502.17239)  |
+|  Step-Audio     | Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction | [Link](https://arxiv.org/abs/2502.11946)  |
+|  MiniCPM-o     | A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone | [Link](https://github.com/OpenBMB/MiniCPM-o)  |
 |  SyncLLM     | Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents | [Link](https://arxiv.org/abs/2409.15594)  |
 |  OmniFlatten     | OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation | [Link](https://arxiv.org/abs/2410.17799)  |
 |  SLAM-Omni     | SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training | [Link](https://arxiv.org/abs/2412.15649)  |
