@@ -27,7 +27,7 @@ We introduce a novel taxonomy for SpeechLMs, categorizing them based on their ar
 |  MindGPT-4o-Audio     | 理想同学MindGPT-4o-Audio实时语音对话大模型发布 | [Link](https://mp.weixin.qq.com/s?__biz=MzkyNzc3ODYzMQ==&mid=2247483808&idx=1&sn=15b2d0fc5c415066e9e85a0e17fa4094&chksm=c313b6c42e4bac7f551e3ce6b314897e6c09b2829d202ae09b088c39b6208d14545221a82785&mpshare=1&scene=1&srcid=06157RruwKQJDuZvxSmt0ALH&sharer_shareinfo=4f156f5dabba628552a2429a555bca65&sharer_shareinfo_first=4f156f5dabba628552a2429a555bca65#rd)  |
 |  VITA-Audio     | VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model | [Link](https://arxiv.org/abs/2505.03739)  |
 |  Voila     | Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play | [Link](https://arxiv.org/abs/2505.02707)  |
-|  Kimi-Audio     | https://arxiv.org/abs/2504.18425 | [Link](https://arxiv.org/abs/2504.18425)  |
+|  Kimi-Audio     | Kimi-Audio Technical Report | [Link](https://arxiv.org/abs/2504.18425)  |
 |  Lyra     | Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition | [Link](https://arxiv.org/abs/2412.09501)  |
 |  Flow-Omni     | Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners | [Link](https://arxiv.org/abs/2412.04917)  |
 |  NTPP     | NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction | [Link](https://arxiv.org/abs/2506.00975)  |
