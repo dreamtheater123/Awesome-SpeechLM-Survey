@@ -7,6 +7,7 @@
 This is the Github repository for paper: [*Recent Advances in Speech Language Models: A Survey*](https://arxiv.org/abs/2410.03751). In this paper, we survey the field of Speech Language Models (SpeechLMs), which are capable of performing end-to-end speech interactions with humans and serve as autoregressive foundation models.
 
 # News
+- Our paper [*SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis*](https://arxiv.org/abs/2608.17931) has been accepted to **ACM Multimedia 2026 (Dataset Track)**! 🎉
 - We have released [*TextPro-SLM: Minimizing Modality Gap from the Input Side: Your Speech LLM Can Be a Prosody-Aware Text LLM*](https://arxiv.org/abs/2605.05927) on arXiv! 🎉
 - We have released [*A Survey of Audio Reasoning in Multimodal Foundation Models*](https://arxiv.org/abs/2605.21008) on arXiv! 🎉
 - Our paper [*TurnGuide: Enhancing Meaningful Full Duplex Spoken Interactions via Dynamic Turn-Level Text-Speech Interleaving*](https://arxiv.org/abs/2508.07375) has been accepted to **Interspeech 2026 Long Paper Track as an Oral presentation**! 🎉 Check it out on [GitHub](https://github.com/dreamtheater123/TurnGuide).
