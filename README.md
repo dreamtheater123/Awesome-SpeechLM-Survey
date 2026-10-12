@@ -129,6 +129,7 @@ LALMs accept speech, environmental sound, and/or music and generate text. Models
 
 | Model | Paper / Release | Year | Audio Scope |
 |-------|-----------------|------|-------------|
+| DuplexJev | [Batched Speech Decisions Without Decoding: Single-Token Supervision Lets a Frozen LLM Hear Beyond the Transcript](https://arxiv.org/abs/2610.02638) · [GitHub](https://github.com/adventists-ai/duplexjev) | 2026 | Speech and paralinguistic decisions (turn-taking, emotion, non-verbal sounds) in one forward pass |
 | MOSS-Audio | [MOSS-Audio](https://arxiv.org/abs/2606.01802) | 2026 | Speech, sound, and music |
 | Audio Flamingo Next | [Audio Flamingo Next](https://arxiv.org/abs/2604.10905) | 2026 | Speech, sound, music, and long audio |
 | Voxtral | [Voxtral](https://arxiv.org/abs/2507.13264) | 2025 | Speech and long audio |
