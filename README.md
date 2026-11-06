@@ -148,6 +148,7 @@ A paper, demo, or repository placeholder is not counted as a released implementa
 
 | Model / Variant | Paper / Resources | Year | Availability and Focus |
 |-----------------|-------------------|------|------------------------|
+| Alba | [A full-duplex voice model on a 4 GB laptop GPU](https://github.com/Echolonius/alba-duplex-research/blob/main/paper/REVIEW.md) · [Repository](https://github.com/Echolonius/alba-duplex-research) · [LoRA adapters](https://github.com/Echolonius/alba-duplex-research/releases/tag/v0.2) | 2026 | QLoRA fine-tune of LFM3-Audio-2B into one streaming model that listens and speaks in 80 ms steps; code and non-commercial LoRA adapters released; answers 10% of turn hand-offs in real recordings vs. 66% for people on the same scorer; project paused |
 | SteerDuplex | [Steerable Duplex Speech Dialogue Models](https://arxiv.org/abs/2609.12623) · [Repository](https://github.com/Utkarsh4430/SteerDuplex) | 2026 | Steerable duplex behavior; repository says coming soon |
 | DuplexSLA | [A Full-Duplex Spoken Language Model with Synchronized Speech, Language, and Action](https://arxiv.org/abs/2605.20755) · [Repository](https://github.com/hyzhang24/DuplexSLA) | 2026 | Joint speech, language, and action streams; inference code and checkpoints listed as coming soon |
 | Covo-Audio-Chat-FD | [Covo-Audio Technical Report](https://arxiv.org/abs/2602.09823) · [Project](https://github.com/Tencent/Covo-Audio) | 2026 | Native full-duplex variant described in the paper; the linked public release is Covo-Audio-Chat, not a verified Chat-FD checkpoint |
